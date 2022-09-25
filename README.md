@@ -15,4 +15,4 @@ If you write a post, you can check it as a recent post, so the recent posts toda
 You can also upload the file.\
 If you upload the file, you can go up to the folder and check the article to see which file is uploaded, and if you click the file, you can download it\
 In addition, the number of opening posts stored in db and the number of pages that can be opened in one page were checked,\
-and the number of pages could be checked by identifying the number\
+and the number of pages could be checked by identifying the number
